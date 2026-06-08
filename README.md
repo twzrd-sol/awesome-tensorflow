@@ -165,6 +165,7 @@ More info [here](http://tensorflow.org).
 * [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
 * [create-tf-app](https://github.com/radi-cho/create-tf-app) - Project builder command line tool for Tensorflow covering environment management, linting, and logging.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring API for AI agent wallets. Verify agent identity before autonomous payments. MCP endpoint: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 <a name="video" />
 
